@@ -26,7 +26,12 @@ This will launch the Dash application and your terminal will respond with "Dash 
 
 The visualisation can be run using Google Chrome, pasting the URL into the browser.
 
-https://github.com/RahulG2381/Project-3/blob/main/Images/WorldHappinessAnalysis_page1.png
+<b>World Happiness Analysis:</b></br>
+![](https://github.com/RahulG2381/Project-3/blob/main/Images/WorldHappinessAnalysis_page1.png)</br>
+</b></br>
+![](https://github.com/RahulG2381/Project-3/blob/main/Images/WorldHappinessAnalysis_page2.png)</br>
+</b></br>
+![](https://github.com/RahulG2381/Project-3/blob/main/Images/WorldHappinessAnalysis_page3.png)</br>
 
 ## Ethical Considerations
 
