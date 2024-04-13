@@ -26,6 +26,8 @@ This will launch the Dash application and your terminal will respond with "Dash 
 
 The visualisation can be run using Google Chrome, pasting the URL into the browser.
 
+https://github.com/RahulG2381/Project-3/blob/main/Images/WorldHappinessAnalysis_page1.png
+
 ## Ethical Considerations
 
 Privacy - We have chosen a dataset in which there is no personal data presented as to not breach the privacy of participants partaking in the survey. The Gallup World Poll has taken great care to obtain consent from participants of the survey. Thus, we have ensured that the data is anonymised and aggregated appropriately to prevent identification of individuals.
